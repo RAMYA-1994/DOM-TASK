@@ -1,0 +1,17 @@
+.form-css{
+     background-color:blueviolet;
+  width : 700px ;
+  height: 800px 
+  margin: 9%px;
+  padding: 100px;
+  text-align: left;
+  border: 1px solid black;
+  border-radius: 10px  ;
+  position: relative;
+  text-align: left;
+  top:-20px;
+  left:300px;
+}
+#table{
+  border-color: black;
+}
